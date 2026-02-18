@@ -1,0 +1,19 @@
+Monitoring sys_clone events...
+Process ThreadPoolSingl (PID: 4847, PPID: 3637) called sys_clone
+Process polkitd (PID: 1075, PPID: 1) called sys_clone
+Process Chrome_ChildIOT (PID: 4847, PPID: 3637) called sys_clone
+Process ThreadPoolForeg (PID: 4847, PPID: 3637) called sys_clone
+Process ThreadPoolForeg (PID: 4847, PPID: 3637) called sys_clone
+Process ThreadPoolForeg (PID: 4847, PPID: 3637) called sys_clone
+Process chrome (PID: 3637, PPID: 3635) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process ThreadPoolForeg (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process chrome (PID: 15381, PPID: 3637) called sys_clone
+Process ThreadPoolSingl (PID: 15381, PPID: 3637) called sys_clone
+Process polkitd (PID: 1075, PPID: 1) called sys_clone
+Process ThreadPoolSingl (PID: 4847, PPID: 3637) called sys_clone
